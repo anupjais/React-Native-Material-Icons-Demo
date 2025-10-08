@@ -1,6 +1,9 @@
-# Take data from (for Android)
+# Take data for Vector Setup
 - 'React-Native-Material-Icons-Demo/android/app/build.gradle' or
-```sh apply from: "../../node_modules/react-native-vector-icons/fonts.gradle" ```
+```sh
+# Vector icons for Android
+apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
+```
 - 'ios/MaterialIconDemo/Info.plist' or
 
 ```sh
