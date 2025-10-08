@@ -1,3 +1,16 @@
+# Take data from (for Android)
+- 'React-Native-Material-Icons-Demo/android/app/build.gradle' or
+```sh apply from: "../../node_modules/react-native-vector-icons/fonts.gradle" ```
+- 'ios/MaterialIconDemo/Info.plist' or
+
+```sh
+# Vector icons for IOS
+<key>UIAppFonts</key>
+	<array>
+	<string>MaterialIcons.ttf</string>
+	</array>
+ ```
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
