@@ -1,13 +1,13 @@
 # Take data for Vector Setup
 - 'React-Native-Material-Icons-Demo/android/app/build.gradle' or
 ```sh
-# Vector icons for Android
+// Vector icons for Android
 apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
 ```
 - 'ios/MaterialIconDemo/Info.plist' or
 
 ```sh
-# Vector icons for IOS
+<!--  Vector icons for IOS -->
 <key>UIAppFonts</key>
 	<array>
 	<string>MaterialIcons.ttf</string>
