@@ -1,3 +1,8 @@
+# Vector icons installation
+```sh
+npm install react-native-vector-icons
+```
+
 # Take data for Vector Setup
 - 'React-Native-Material-Icons-Demo/android/app/build.gradle' or
 ```sh
