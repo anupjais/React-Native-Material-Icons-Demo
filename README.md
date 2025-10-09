@@ -4,12 +4,12 @@ npm install react-native-vector-icons
 ```
 
 # Take data for Vector Setup
-- 'React-Native-Material-Icons-Demo/android/app/build.gradle' or
+- Nativate to 'React-Native-Material-Icons-Demo/android/app/build.gradle' 
 ```sh
 // Vector icons for Android
 apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
 ```
-- 'ios/MaterialIconDemo/Info.plist' or
+- Nativate to 'ios/MaterialIconDemo/Info.plist' 
 
 ```sh
 <!--  Vector icons for IOS -->
