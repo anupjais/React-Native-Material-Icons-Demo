@@ -13,9 +13,9 @@ apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
 
 ```sh
 <!--  Vector icons for IOS -->
-<key>UIAppFonts</key>
+	<key>UIAppFonts</key>
 	<array>
-	<string>MaterialIcons.ttf</string>
+		<string>MaterialIcons.ttf</string>
 	</array>
  ```
 
